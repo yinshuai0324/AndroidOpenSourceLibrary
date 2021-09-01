@@ -77,4 +77,8 @@ Github地址：[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache
 Github地址：[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
 
+#### Banner
+简介：只做一个可以自定义的轮播容器，不侵入UI   
+Github地址：[Banner](https://github.com/youth5201314/banner)
+
 ### 更多框架持续收录中...
