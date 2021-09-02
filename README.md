@@ -137,4 +137,29 @@ Github地址：[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerV
 
 简介：Android 时间轴视图库（使用 RecyclerView）是一个简单的实现，用于显示视图，如跟踪发货/订单、步进器等        
 Github地址：[Timeline-View](https://github.com/vipulasri/Timeline-View)
+
+## MultiSnapRecyclerView
+
+简介：用于多次捕捉 RecyclerView 的 Android 库         
+Github地址：[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)
+
+## Colorful
+
+简介：多彩是一个动态主题库，可让您轻松更改应用程序的配色方案。           
+Github地址：[Colorful](https://github.com/garretyoder/Colorful)
+
+
+## transitioner
+
+简介：Transitioner 在具有嵌套子项的两个视图之间提供简单、动态和可调整的动画             
+Github地址：[transitioner](https://github.com/dev-labs-bg/transitioner)
+
+
+## UltimateBarX
+
+简介：一款方便的设置状态栏和导航栏的各种效果的框架             
+Github地址：[UltimateBarX](https://github.com/Zackratos/UltimateBarX)
+
+
+
 ### 更多框架持续收录中...
